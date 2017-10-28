@@ -1,0 +1,7 @@
+D:\codepractice-prj\HackonMak\BalanceBracket\bin\Debug\BalanceBracket.exe.config
+D:\codepractice-prj\HackonMak\BalanceBracket\bin\Debug\BalanceBracket.exe
+D:\codepractice-prj\HackonMak\BalanceBracket\bin\Debug\BalanceBracket.pdb
+D:\codepractice-prj\HackonMak\BalanceBracket\obj\Debug\BalanceBracket.csprojResolveAssemblyReference.cache
+D:\codepractice-prj\HackonMak\BalanceBracket\obj\Debug\BalanceBracket.csproj.CoreCompileInputs.cache
+D:\codepractice-prj\HackonMak\BalanceBracket\obj\Debug\BalanceBracket.exe
+D:\codepractice-prj\HackonMak\BalanceBracket\obj\Debug\BalanceBracket.pdb

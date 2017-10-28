@@ -1,0 +1,7 @@
+D:\codepractice-prj\HackonMak\DeletectCycles\bin\Debug\DeletectCycles.exe.config
+D:\codepractice-prj\HackonMak\DeletectCycles\bin\Debug\DeletectCycles.exe
+D:\codepractice-prj\HackonMak\DeletectCycles\bin\Debug\DeletectCycles.pdb
+D:\codepractice-prj\HackonMak\DeletectCycles\obj\Debug\DetectCycles.csprojResolveAssemblyReference.cache
+D:\codepractice-prj\HackonMak\DeletectCycles\obj\Debug\DetectCycles.csproj.CoreCompileInputs.cache
+D:\codepractice-prj\HackonMak\DeletectCycles\obj\Debug\DeletectCycles.exe
+D:\codepractice-prj\HackonMak\DeletectCycles\obj\Debug\DeletectCycles.pdb

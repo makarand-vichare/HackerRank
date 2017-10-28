@@ -1,0 +1,7 @@
+D:\codepractice-prj\HackonMak\RandomNote\bin\Debug\RandomNote.exe.config
+D:\codepractice-prj\HackonMak\RandomNote\bin\Debug\RandomNote.exe
+D:\codepractice-prj\HackonMak\RandomNote\bin\Debug\RandomNote.pdb
+D:\codepractice-prj\HackonMak\RandomNote\obj\Debug\RandomNote.csprojResolveAssemblyReference.cache
+D:\codepractice-prj\HackonMak\RandomNote\obj\Debug\RandomNote.csproj.CoreCompileInputs.cache
+D:\codepractice-prj\HackonMak\RandomNote\obj\Debug\RandomNote.exe
+D:\codepractice-prj\HackonMak\RandomNote\obj\Debug\RandomNote.pdb

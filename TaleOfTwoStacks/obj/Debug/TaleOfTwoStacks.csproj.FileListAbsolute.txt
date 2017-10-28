@@ -1,0 +1,7 @@
+D:\codepractice-prj\HackonMak\TaleOfTwoStacks\bin\Debug\TaleOfTwoStacks.exe.config
+D:\codepractice-prj\HackonMak\TaleOfTwoStacks\bin\Debug\TaleOfTwoStacks.exe
+D:\codepractice-prj\HackonMak\TaleOfTwoStacks\bin\Debug\TaleOfTwoStacks.pdb
+D:\codepractice-prj\HackonMak\TaleOfTwoStacks\obj\Debug\TaleOfTwoStacks.csprojResolveAssemblyReference.cache
+D:\codepractice-prj\HackonMak\TaleOfTwoStacks\obj\Debug\TaleOfTwoStacks.csproj.CoreCompileInputs.cache
+D:\codepractice-prj\HackonMak\TaleOfTwoStacks\obj\Debug\TaleOfTwoStacks.exe
+D:\codepractice-prj\HackonMak\TaleOfTwoStacks\obj\Debug\TaleOfTwoStacks.pdb

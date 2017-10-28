@@ -1,0 +1,7 @@
+D:\codepractice-prj\HackonMak\Comparator-Sort\bin\Debug\Comparator-Sort.exe.config
+D:\codepractice-prj\HackonMak\Comparator-Sort\bin\Debug\Comparator-Sort.exe
+D:\codepractice-prj\HackonMak\Comparator-Sort\bin\Debug\Comparator-Sort.pdb
+D:\codepractice-prj\HackonMak\Comparator-Sort\obj\Debug\Comparator-Sort.csprojResolveAssemblyReference.cache
+D:\codepractice-prj\HackonMak\Comparator-Sort\obj\Debug\Comparator-Sort.csproj.CoreCompileInputs.cache
+D:\codepractice-prj\HackonMak\Comparator-Sort\obj\Debug\Comparator-Sort.exe
+D:\codepractice-prj\HackonMak\Comparator-Sort\obj\Debug\Comparator-Sort.pdb

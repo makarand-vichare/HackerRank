@@ -1,0 +1,7 @@
+D:\codepractice-prj\HackonMak\Anagrams\bin\Debug\Anagrams.exe.config
+D:\codepractice-prj\HackonMak\Anagrams\bin\Debug\Anagrams.exe
+D:\codepractice-prj\HackonMak\Anagrams\bin\Debug\Anagrams.pdb
+D:\codepractice-prj\HackonMak\Anagrams\obj\Debug\Anagrams.csproj.CoreCompileInputs.cache
+D:\codepractice-prj\HackonMak\Anagrams\obj\Debug\Anagrams.exe
+D:\codepractice-prj\HackonMak\Anagrams\obj\Debug\Anagrams.pdb
+D:\codepractice-prj\HackonMak\Anagrams\obj\Debug\Anagrams.csprojResolveAssemblyReference.cache

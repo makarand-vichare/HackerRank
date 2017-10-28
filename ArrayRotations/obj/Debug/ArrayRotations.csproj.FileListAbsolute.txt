@@ -1,0 +1,7 @@
+D:\codepractice-prj\HackonMak\HackonMak\obj\Debug\ArrayRotations.csproj.CoreCompileInputs.cache
+D:\codepractice-prj\HackonMak\HackonMak\obj\Debug\HackonMak.exe
+D:\codepractice-prj\HackonMak\HackonMak\obj\Debug\HackonMak.pdb
+D:\codepractice-prj\HackonMak\HackonMak\bin\Debug\HackonMak.exe.config
+D:\codepractice-prj\HackonMak\HackonMak\bin\Debug\HackonMak.exe
+D:\codepractice-prj\HackonMak\HackonMak\bin\Debug\HackonMak.pdb
+D:\codepractice-prj\HackonMak\HackonMak\obj\Debug\ArrayRotations.csprojResolveAssemblyReference.cache

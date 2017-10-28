@@ -1,0 +1,7 @@
+D:\codepractice-prj\HackonMak\IsBinaryTree\bin\Debug\IsBinaryTree.exe.config
+D:\codepractice-prj\HackonMak\IsBinaryTree\bin\Debug\IsBinaryTree.exe
+D:\codepractice-prj\HackonMak\IsBinaryTree\bin\Debug\IsBinaryTree.pdb
+D:\codepractice-prj\HackonMak\IsBinaryTree\obj\Debug\IsBinaryTree.csprojResolveAssemblyReference.cache
+D:\codepractice-prj\HackonMak\IsBinaryTree\obj\Debug\IsBinaryTree.csproj.CoreCompileInputs.cache
+D:\codepractice-prj\HackonMak\IsBinaryTree\obj\Debug\IsBinaryTree.exe
+D:\codepractice-prj\HackonMak\IsBinaryTree\obj\Debug\IsBinaryTree.pdb

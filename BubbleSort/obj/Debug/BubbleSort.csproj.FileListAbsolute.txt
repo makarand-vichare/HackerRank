@@ -1,0 +1,7 @@
+D:\codepractice-prj\HackonMak\BubbleSort\bin\Debug\BubbleSort.exe.config
+D:\codepractice-prj\HackonMak\BubbleSort\bin\Debug\BubbleSort.exe
+D:\codepractice-prj\HackonMak\BubbleSort\bin\Debug\BubbleSort.pdb
+D:\codepractice-prj\HackonMak\BubbleSort\obj\Debug\BubbleSort.csprojResolveAssemblyReference.cache
+D:\codepractice-prj\HackonMak\BubbleSort\obj\Debug\BubbleSort.csproj.CoreCompileInputs.cache
+D:\codepractice-prj\HackonMak\BubbleSort\obj\Debug\BubbleSort.exe
+D:\codepractice-prj\HackonMak\BubbleSort\obj\Debug\BubbleSort.pdb

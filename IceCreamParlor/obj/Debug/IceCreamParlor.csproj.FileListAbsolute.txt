@@ -1,0 +1,6 @@
+D:\codepractice-prj\HackonMak\IceCreamParlor\bin\Debug\IceCreamParlor.exe.config
+D:\codepractice-prj\HackonMak\IceCreamParlor\bin\Debug\IceCreamParlor.exe
+D:\codepractice-prj\HackonMak\IceCreamParlor\bin\Debug\IceCreamParlor.pdb
+D:\codepractice-prj\HackonMak\IceCreamParlor\obj\Debug\IceCreamParlor.csproj.CoreCompileInputs.cache
+D:\codepractice-prj\HackonMak\IceCreamParlor\obj\Debug\IceCreamParlor.exe
+D:\codepractice-prj\HackonMak\IceCreamParlor\obj\Debug\IceCreamParlor.pdb
